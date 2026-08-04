@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner/banner.png" alt="Cybersecurity Portfolio Banner" width="100%">
+</p>
+
 # 🛡️ Cybersecurity Portfolio
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/OkirieChukwumeniemFaith1/Cybersecurity-Portfolio)
