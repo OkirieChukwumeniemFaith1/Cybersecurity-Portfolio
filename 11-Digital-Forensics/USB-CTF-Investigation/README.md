@@ -173,3 +173,17 @@ This investigation was conducted in an authorized educational environment as par
 |----------|-------------|
 | 📋 [Assignment Deliverables](docs/Deliverables.md) | Complete responses to all Digital Forensics assignment tasks. |
 | 📑 [Forensic Examination Report](docs/Forensic-Report.pdf) | Formal two-page forensic examination report. |
+
+---
+
+# 📁 Investigation Resources
+
+| Resource | Description |
+|----------|-------------|
+| 📋 [Assignment Deliverables](docs/Deliverables.md) | Complete responses to all required Digital Forensics tasks. |
+| 📑 [Forensic Examination Report](docs/Forensic-Report.pdf) | Formal two-page forensic examination report. |
+| 📸 [Screenshots](screenshots/) | Significant forensic screenshots captured during the investigation. |
+| 📂 [Recovered Files](recovered-files/) | Files recovered during deleted data analysis. |
+| 📅 [Timeline](timeline/) | Timeline reconstruction outputs and supporting files. |
+| 💻 [Commands](commands/) | Commands executed throughout the investigation. |
+| 📚 [Resources](resources/) | Supporting references and investigation materials. |
