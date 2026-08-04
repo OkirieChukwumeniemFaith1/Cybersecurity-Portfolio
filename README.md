@@ -53,6 +53,22 @@ I am currently developing practical skills in:
 
 ---
 
+## 📂 Explore the Modules
+
+| Module | Documentation |
+|---------|---------------|
+| 🖥️ Host-Based Security | [View Module](./01-Host-Based-Security) |
+| 💻 Virtualization | [View Module](./02-Virtualization) |
+| 🌐 Networking | [View Module](./03-Networking) |
+| 🐧 Linux Administration | [View Module](./04-Linux-Administration) |
+| 🪟 Windows Administration | [View Module](./05-Windows-Administration) |
+| 🔎 OSINT | [View Module](./06-OSINT) |
+| 🦠 Malware Analysis | [View Module](./07-Malware-Analysis) |
+| 🎯 Vulnerability Assessment & Penetration Testing | [View Module](./08-Vulnerability-Assessment-and-Penetration-Testing) |
+| 📊 Log Analysis | [View Module](./09-Log-Analysis) |
+| 🛡️ SOC Analysis | [View Module](./10-SOC-Analysis) |
+| 🔬 Digital Forensics | [View Module](./11-Digital-Forensics) |
+
 # 🛠️ Tools & Technologies
 
 ## Operating Systems
