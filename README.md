@@ -84,7 +84,7 @@ I am currently developing practical skills in:
 
 | Module | Documentation |
 |---------|---------------|
-| 🖥️ Host-Based Security | [Host-Based Security Report](docs/Host-Based-Security-Report.pdf)  |
+| 🖥️ Host-Based Security | [View Module](./01-Host-Based-Security)   |
 | 💻 Virtualization | [View Module](./02-Virtualization) |
 | 🌐 Networking | [View Module](./03-Networking) |
 | 🐧 Linux Administration | [View Module](./04-Linux-Administration) |
@@ -163,9 +163,9 @@ Cybersecurity-Portfolio
 | Project | Description | Status |
 |---------|-------------|:------:|
 | USB Forensic Investigation | Comprehensive forensic examination of a USB forensic image using SIFT Workstation | ✅ |
-| Enterprise Intelligence Assessment | OSINT investigation and intelligence gathering | 🚧 |
-| Malware Analysis Lab | Static and dynamic malware analysis | 🚧 |
-| SOC Incident Investigation | Security event investigation and reporting | 🚧 |
+| Enterprise Intelligence Assessment | OSINT investigation and intelligence gathering | ✅ |
+| Malware Analysis Lab | Static and dynamic malware analysis | ✅ |
+| SOC Incident Investigation | Security event investigation and reporting | ✅ |
 
 ---
 
@@ -196,17 +196,17 @@ A complete forensic examination of a USB storage device provided as a forensic i
 
 | Domain | Progress |
 |---------|:--------:|
-| 🖥️ Host-Based Security | 🟨 Planned |
-| 💻 Virtualization | 🟨 Planned |
+| 🖥️ Host-Based Security | 🟩 Done |
+| 💻 Virtualization | 🟩 Done |
 | 🌐 Networking | 🟨 Planned |
 | 🐧 Linux Administration | 🟨 Planned |
 | 🪟 Windows Administration | 🟨 Planned |
-| 🔎 Open Source Intelligence (OSINT) | 🟨 Planned |
-| 🦠 Malware Analysis | 🟨 Planned |
-| 🎯 Vulnerability Assessment & Penetration Testing | 🟨 Planned |
+| 🔎 Open Source Intelligence (OSINT) | 🟩 Done |
+| 🦠 Malware Analysis | 🟩 Done |
+| 🎯 Vulnerability Assessment & Penetration Testing | 🟩 Done |
 | 📊 Log Analysis | 🟨 Planned |
-| 🛡️ Security Operations Center (SOC) | 🟨 Planned |
-| 🔬 Digital Forensics | 🟩 In Progress |
+| 🛡️ Security Operations Center (SOC) | 🟩 Done |
+| 🔬 Digital Forensics | 🟩 Done |
 
 ---
 
