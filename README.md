@@ -37,6 +37,13 @@ I am a Software Engineer with a growing specialization in Cybersecurity, focusin
 I enjoy building secure systems, investigating digital evidence, analyzing security incidents, and continuously expanding my technical skills through practical labs and real-world projects.
 
 ---
+## 🌟 Featured Investigation
+
+The **USB Digital Forensics CTF Investigation** is the flagship project in this portfolio. It demonstrates a complete forensic workflow, from evidence verification and initial triage to artifact discovery, deleted file recovery, timeline reconstruction, and professional reporting.
+
+**🔗 Explore the investigation:**
+
+➡️ [USB Digital Forensics Investigation](11-Digital-Forensics/USB-CTF-Investigation/)
 
 # 🎯 Current Focus
 
@@ -252,6 +259,17 @@ Each module will include:
 - Timeline Analysis
 
 ---
+## 🛠️ Technical Skills
+
+| Domain | Skills |
+|--------|--------|
+| Digital Forensics | Evidence Verification, File System Analysis, Deleted File Recovery, Timeline Analysis |
+| Operating Systems | Windows Administration, Linux Administration |
+| Networking | Network Fundamentals, Network Security |
+| Security Operations | Log Analysis, SOC Fundamentals |
+| Offensive Security | Vulnerability Assessment & Penetration Testing |
+| Intelligence | Open Source Intelligence (OSINT) |
+| Malware | Static & Dynamic Malware Analysis |
 
 # 📅 Learning Journey
 
@@ -266,6 +284,11 @@ Every completed investigation documents not only the results but also the method
 While this repository primarily serves as my personal cybersecurity portfolio, I welcome constructive feedback, suggestions, and discussions from the cybersecurity community.
 
 ---
+## 🎯 Current Focus
+
+I am currently expanding this portfolio by documenting practical cybersecurity projects completed during my training. Each module will include technical documentation, reports, and supporting resources as they are refined for publication.
+
+The first completed case study is the **USB Digital Forensics CTF Investigation**, which serves as the flagship investigation for this portfolio.
 
 # 📜 Disclaimer
 
@@ -275,4 +298,8 @@ This repository is intended solely for educational, documentation, and portfolio
 
 ---
 
-# ⭐ If you found this portfolio interesting, consider giving the repository a star!
+## 🤝 Connect
+
+If you'd like to explore my software engineering projects as well, visit my main GitHub profile.
+
+⭐ If you found this portfolio interesting, feel free to explore the investigations and documentation.
