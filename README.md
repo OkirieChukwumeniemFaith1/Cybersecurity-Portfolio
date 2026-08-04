@@ -77,7 +77,7 @@ I am currently developing practical skills in:
 
 | Module | Documentation |
 |---------|---------------|
-| 🖥️ Host-Based Security | [View Module](./01-Host-Based-Security) |
+| 🖥️ Host-Based Security | [Host-Based Security Report](docs/Host-Based-Security-Report.pdf)  |
 | 💻 Virtualization | [View Module](./02-Virtualization) |
 | 🌐 Networking | [View Module](./03-Networking) |
 | 🐧 Linux Administration | [View Module](./04-Linux-Administration) |
