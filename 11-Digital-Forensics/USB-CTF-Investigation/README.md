@@ -164,3 +164,12 @@ This investigation reinforced the importance of:
 # ⚖️ Disclaimer
 
 This investigation was conducted in an authorized educational environment as part of a Digital Forensics practical exercise. It is shared for educational and portfolio purposes only.
+
+---
+
+# 📄 Investigation Documents
+
+| Document | Description |
+|----------|-------------|
+| 📋 [Assignment Deliverables](docs/Deliverables.md) | Complete responses to all Digital Forensics assignment tasks. |
+| 📑 [Forensic Examination Report](docs/Forensic-Report.pdf) | Formal two-page forensic examination report. |
