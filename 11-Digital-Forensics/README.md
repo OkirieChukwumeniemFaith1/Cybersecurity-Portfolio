@@ -118,7 +118,7 @@ A complete forensic investigation of a provided USB forensic image performed usi
 
 ➡️ **Open Investigation**
 
-`USB-CTF-Investigation`
+[USB Digital Forensics Investigation](USB-CTF-Investigation/)
 
 ---
 
