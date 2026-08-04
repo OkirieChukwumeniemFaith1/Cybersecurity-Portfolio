@@ -13,3 +13,4 @@ Examples include:
 - Timeline reconstruction
 
 Screenshots will be added as the investigation progresses.
+The Screenshots can be found in the resources folder inside the documentary file
