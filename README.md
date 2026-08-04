@@ -142,49 +142,117 @@ Cybersecurity-Portfolio
 
 ---
 
-# 📈 Learning Journey
+---
 
-This repository reflects my continuous learning in cybersecurity through:
+# 🚀 Featured Investigation
 
-- Practical laboratory exercises
-- Case studies
-- Technical reports
-- Digital forensic investigations
-- Security assessments
-- Capture The Flag (CTF) challenges
-- Documentation of tools and methodologies
+## 🔬 USB Digital Forensics Investigation
 
-Every completed module represents a milestone in developing practical cybersecurity skills.
+A complete forensic examination of a USB storage device provided as a forensic image (`cartel.img`) during a Digital Forensics & Incident Response Capture The Flag (CTF) challenge.
+
+### Investigation Highlights
+
+- ✅ Evidence integrity verification (MD5 & SHA-256)
+- ✅ Initial forensic triage
+- ✅ File system analysis
+- ✅ Digital artifact identification
+- ✅ Deleted file recovery
+- ✅ Timeline reconstruction
+- ✅ Professional forensic examination report
+
+**📂 View Investigation:**  
+➡️ [Digital Forensics Module](./11-Digital-Forensics)
 
 ---
 
-# 🎯 Future Goals
+# 📊 Portfolio Progress
 
-- Cloud Security
-- Threat Hunting
-- Memory Forensics
-- Detection Engineering
-- DFIR Automation
-- SIEM Engineering
-- Secure Software Development
-- Threat Intelligence
+| Domain | Progress |
+|---------|:--------:|
+| 🖥️ Host-Based Security | 🟨 Planned |
+| 💻 Virtualization | 🟨 Planned |
+| 🌐 Networking | 🟨 Planned |
+| 🐧 Linux Administration | 🟨 Planned |
+| 🪟 Windows Administration | 🟨 Planned |
+| 🔎 Open Source Intelligence (OSINT) | 🟨 Planned |
+| 🦠 Malware Analysis | 🟨 Planned |
+| 🎯 Vulnerability Assessment & Penetration Testing | 🟨 Planned |
+| 📊 Log Analysis | 🟨 Planned |
+| 🛡️ Security Operations Center (SOC) | 🟨 Planned |
+| 🔬 Digital Forensics | 🟩 In Progress |
+
+---
+
+# 📖 Repository Roadmap
+
+This repository is being developed as a long-term cybersecurity knowledge base.
+
+Each module will include:
+
+- 📚 Learning notes
+- 🧪 Hands-on labs
+- 🔍 Practical investigations
+- 📑 Technical reports
+- 🖼️ Supporting evidence (where applicable)
+- 🛠️ Tools and commands used
+- 💡 Lessons learned
+- 📂 References and resources
+
+---
+
+# 🎯 Skills Being Developed
+
+### Blue Team
+
+- Incident Response
+- Digital Forensics
+- Threat Analysis
+- Log Analysis
+- SOC Operations
+
+### Red Team
+
+- Vulnerability Assessment
+- Penetration Testing
+- Enumeration
+- Reconnaissance
+
+### Systems
+
+- Linux Administration
+- Windows Administration
+- Networking
+- Virtualization
+
+### Investigation
+
+- Open Source Intelligence (OSINT)
+- Malware Analysis
+- Evidence Collection
+- Timeline Analysis
+
+---
+
+# 📅 Learning Journey
+
+This portfolio is continuously updated as I complete new modules, investigations, and technical projects throughout my cybersecurity training.
+
+Every completed investigation documents not only the results but also the methodology, tools, and lessons learned to demonstrate practical cybersecurity skills.
+
+---
+
+# 🤝 Contributing
+
+While this repository primarily serves as my personal cybersecurity portfolio, I welcome constructive feedback, suggestions, and discussions from the cybersecurity community.
 
 ---
 
 # 📜 Disclaimer
 
-This repository is intended for educational and portfolio purposes only.
+All investigations, reports, and laboratory exercises contained in this repository were performed in authorized educational environments or Capture The Flag (CTF) scenarios.
 
-All investigations, reports, and practical exercises were conducted within authorized laboratory environments or Capture The Flag (CTF) scenarios. Any recovered evidence, screenshots, or datasets included are used solely for educational purposes and do not represent real-world investigations unless explicitly stated.
-
----
-
-# 📬 Contact
-
-If you'd like to connect, discuss cybersecurity, software engineering, or collaborate on projects, feel free to reach out through my GitHub profile.
+This repository is intended solely for educational, documentation, and portfolio purposes.
 
 ---
 
-## ⭐ Thank you for visiting my Cybersecurity Portfolio!
-
-*"Continuous learning is the strongest defense in cybersecurity."*
+# ⭐ If you found this portfolio interesting, consider giving the repository a star!
